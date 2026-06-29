@@ -1,0 +1,2 @@
+# 540a62a2427ebdfb-coworking-goal-setting-and-okr
+Professional coworking WordPress plugin — without the professional price tag.  Regular security updates. Works with WordPress multisite. Compatible with all major WordPress themes and page builders.  ## What's Included  - Coworking Goal Setting And Okr Framework — fully configured and ready to use - Clean admin settings panel with inline documentat
