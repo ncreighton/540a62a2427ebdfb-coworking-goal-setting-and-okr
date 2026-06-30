@@ -1,2 +1,28 @@
-# 540a62a2427ebdfb-coworking-goal-setting-and-okr
-Professional coworking WordPress plugin — without the professional price tag.  Regular security updates. Works with WordPress multisite. Compatible with all major WordPress themes and page builders.  ## What's Included  - Coworking Goal Setting And Okr Framework — fully configured and ready to use - Clean admin settings panel with inline documentat
+# Coworking Goal Setting and OKR Framework Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Core functionality | Yes | Yes |
+| Basic settings | Yes | Yes |
+| Standard widgets | Yes | Yes |
+| Advanced features | - | Yes |
+| Priority support | - | Yes |
+| Custom post types | - | Yes |
+| API access | - | Yes |
+| White-label option | - | Yes |
+| Multisite support | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/9B66oH7r18Ise000VecZD36)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/9B66oH7r18Ise000VecZD36)
+
